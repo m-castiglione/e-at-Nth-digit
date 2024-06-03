@@ -1,0 +1,15 @@
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\bin\Debug\net8.0\e-at-Nth-digit.exe
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\bin\Debug\net8.0\e-at-Nth-digit.deps.json
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\bin\Debug\net8.0\e-at-Nth-digit.runtimeconfig.json
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\bin\Debug\net8.0\e-at-Nth-digit.dll
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\bin\Debug\net8.0\e-at-Nth-digit.pdb
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.AssemblyInfoInputs.cache
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.AssemblyInfo.cs
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.csproj.CoreCompileInputs.cache
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.sourcelink.json
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.dll
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\refint\e-at-Nth-digit.dll
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.pdb
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\e-at-Nth-digit.genruntimeconfig.cache
+C:\Users\matt3\OneDrive\Documents\C# Repos\e-To-The-Nth\e-at-Nth-digit\obj\Debug\net8.0\ref\e-at-Nth-digit.dll
